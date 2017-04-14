@@ -1,1 +1,0 @@
-E:\VS2017\Carousel\Carousel\Carousel.csproj;x86
